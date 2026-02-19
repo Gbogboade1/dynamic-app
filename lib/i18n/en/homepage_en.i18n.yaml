@@ -1,0 +1,50 @@
+intro:
+  title-leading: "The Future of "
+  title-gaming: Gaming
+  title-and: " & "
+  title-de-fi: DeFi
+  subtitle: Experience seamless on-chain gaming, decentralized finance, and NFT trading all in one revolutionary platform powered by multiple blockchains.
+  start-cta: Start Gaming
+  explore-cta: Explore DeFi
+  total-volume: Total Volume
+  active-gamers: Active Gamers
+  blockchains: Blockchains
+  nft: NFTs Traded
+
+  comprehensive: Comprehensive 
+  comprehensive-platform: " Web3 Platform"
+  comprehensive-subtitle: Everything you need for gaming, DeFi, and NFTs in one seamless ecosystem
+
+connect-wallet: Connect Wallet
+gaming: Gaming Hub
+de-fi: DeFi Exchange
+nft: NFT Marketplace
+launchpad: Launchpad
+governance: Governance
+
+gaming-title: On-Chain Gaming
+gaming-body: Experience immersive blockchain games with true asset ownership and play-to-earn mechanics.
+gaming-details: "NFT Game Assets\nPlay-to-Earn\nCross-Game Items\nTournament Rewards"
+
+de-fi-title: DeFi Trading
+de-fi-body: Trade tokens, provide liquidity, and earn rewards with advanced DeFi protocols.
+de-fi-details: "Token Swaps\nLiquidity Pools\nYield Farming\nStaking Rewards"
+
+nft-title: NFT Marketplace
+nft-body: Buy, sell, and trade unique digital assets across multiple gaming ecosystems.
+nft-details: "Art Collections\nGaming NFTs\nRoyalty System\nCross-Chain"
+
+launchpad-title: Project Launchpad
+launchpad-body: Discover and invest in promising new gaming and DeFi projects before they launch.
+launchpad-details: "IDO Platform\nEarly Access\nVetting Process\nCommunity Voting"
+
+governance-title: DAO Governance
+governance-body: Shape the future of the platform through decentralized governance and voting.
+
+governance-details: "Proposal System\nToken Voting\nTreasury Management\nCommunity Rewards"
+
+explore-x: Explore ${feature}
+
+analytics-title: Advanced Analytics
+analytics-body: Track your performance with comprehensive analytics and insights.
+analytics-details: "Portfolio Tracking\nP&L Analysis\nMarket Data\nPerformance Metrics"

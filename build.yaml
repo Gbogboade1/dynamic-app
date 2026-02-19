@@ -1,0 +1,23 @@
+targets:
+  $default:
+    builders:
+      # event_bus_code_gen:
+      #   enabled: true
+      #   options:
+      #     debug: true
+      json_serializable:
+        options:
+          explicit_to_json: true
+          field_rename: snake
+      slang_build_runner:
+        options:
+          base_locale: en
+          namespaces: true 
+          fallback_strategy: base_locale
+          input_directory: lib/i18n
+          input_file_pattern: .i18n.yaml
+          output_directory: lib/i18n
+          output_file_name: translations.g.dart
+          string_interpolation: dart
+          key_case: camel
+          key_map_case: camel

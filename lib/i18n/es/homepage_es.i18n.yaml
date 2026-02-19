@@ -1,0 +1,50 @@
+intro:
+  title-leading: "El Futuro de "
+  title-gaming: Gaming
+  title-and: " & "
+  title-de-fi: DeFi
+  subtitle: Vive los juegos en cadena sin interrupciones, finanzas descentralizadas y trading de NFT todo en una única plataforma revolucionaria impulsada por múltiples blockchains.
+  start-cta: Comenzar a Jugar
+  explore-cta: Explorar DeFi
+  total-volume: Volumen Total
+  active-gamers: Jugadores Activos
+  blockchains: Blockchains
+  nft: NFTs Negociados
+
+  comprehensive: Plataforma
+  comprehensive-platform: " Web3 Completa"
+  comprehensive-subtitle: Todo lo que necesitas para gaming, DeFi y NFTs en un único ecosistema sin interrupciones
+
+connect-wallet: Conectar Billetera
+gaming: Centro de Gaming
+de-fi: Intercambio DeFi
+nft: Mercado de NFT
+launchpad: Launchpad
+governance: Gobernanza
+
+gaming-title: Gaming En Cadena
+gaming-body: Vive juegos blockchain inmersivos con verdadera propiedad de activos y mecánicas play-to-earn.
+gaming-details: "Activos de Juegos NFT\nPlay-to-Earn\nArtículos Entre Juegos\nRecompensas de Torneo"
+
+de-fi-title: Trading DeFi
+de-fi-body: Intercambia tokens, proporciona liquidez y gana recompensas con protocolos DeFi avanzados.
+de-fi-details: "Intercambios de Tokens\nPools de Liquidez\nGranjas de Rendimiento\nRecompensas de Staking"
+
+nft-title: Mercado de NFT
+nft-body: Compra, vende e intercambia activos digitales únicos en múltiples ecosistemas de gaming.
+nft-details: "Colecciones de Arte\nNFTs de Gaming\nSistema de Regalías\nMulticadena"
+
+launchpad-title: Launchpad de Proyecto
+launchpad-body: Descubre e invierte en proyectos prometedores de gaming y DeFi antes de su lanzamiento.
+launchpad-details: "Plataforma IDO\nAcceso Anticipado\nProceso de Evaluación\nVotación Comunitaria"
+
+governance-title: Gobernanza DAO
+governance-body: Moldea el futuro de la plataforma a través de la gobernanza descentralizada y la votación.
+
+governance-details: "Sistema de Propuestas\nVotación por Tokens\nGestión del Tesoro\nRecompensas Comunitarias"
+
+explore-x: Explorar ${feature}
+
+analytics-title: Análisis Avanzado
+analytics-body: Sigue tu desempeño con análisis e insights completos.
+analytics-details: "Seguimiento de Cartera\nAnálisis P&L\nDatos de Mercado\nMétricas de Desempeño"
